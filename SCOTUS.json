@@ -2,7 +2,7 @@
   {
     "appt": 1,
     "LName": "Wilson",
-    "Fname": "James",
+    "FName": "James",
     "gender": 1,
     "DOB": "09/14/1742",
     "debut": "10/05/1789",
@@ -14,7 +14,7 @@
   {
     "appt": 2,
     "LName": "Jay",
-    "Fname": "John",
+    "FName": "John",
     "gender": 1,
     "DOB": "12/12/1745",
     "debut": "10/19/1789",
@@ -26,7 +26,7 @@
   {
     "appt": 3,
     "LName": "Cushing",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "03/01/1732",
     "debut": "02/02/1790",
@@ -38,7 +38,7 @@
   {
     "appt": 4,
     "LName": "Blair",
-    "Fname": "John Jr.",
+    "FName": "John Jr.",
     "gender": 1,
     "DOB": "01/04/1732",
     "debut": "02/02/1790",
@@ -50,7 +50,7 @@
   {
     "appt": 5,
     "LName": "Rutledge",
-    "Fname": "John",
+    "FName": "John",
     "gender": 1,
     "DOB": "09/04/1739",
     "debut": "02/15/1790",
@@ -62,7 +62,7 @@
   {
     "appt": 6,
     "LName": "Iredell",
-    "Fname": "James",
+    "FName": "James",
     "gender": 1,
     "DOB": "10/05/1751",
     "debut": "05/12/1790",
@@ -74,7 +74,7 @@
   {
     "appt": 7,
     "LName": "Johnson",
-    "Fname": "Thomas",
+    "FName": "Thomas",
     "gender": 1,
     "DOB": "11/04/1732",
     "debut": "01/19/1792",
@@ -86,7 +86,7 @@
   {
     "appt": 8,
     "LName": "Paterson",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "12/24/1745",
     "debut": "03/11/1793",
@@ -98,7 +98,7 @@
   {
     "appt": 10,
     "LName": "Chase",
-    "Fname": "Samuel",
+    "FName": "Samuel",
     "gender": 1,
     "DOB": "04/17/1741",
     "debut": "02/04/1796",
@@ -110,7 +110,7 @@
   {
     "appt": 11,
     "LName": "Ellsworth",
-    "Fname": "Oliver",
+    "FName": "Oliver",
     "gender": 1,
     "DOB": "04/29/1745",
     "debut": "03/08/1796",
@@ -122,7 +122,7 @@
   {
     "appt": 12,
     "LName": "Washington",
-    "Fname": "Bushrod",
+    "FName": "Bushrod",
     "gender": 1,
     "DOB": "06/05/1762",
     "debut": "11/09/1798",
@@ -134,7 +134,7 @@
   {
     "appt": 13,
     "LName": "Moore",
-    "Fname": "Alfred",
+    "FName": "Alfred",
     "gender": 1,
     "DOB": "05/21/1755",
     "debut": "04/21/1800",
@@ -146,7 +146,7 @@
   {
     "appt": 14,
     "LName": "Marshall",
-    "Fname": "John",
+    "FName": "John",
     "gender": 1,
     "DOB": "09/24/1755",
     "debut": "02/04/1801",
@@ -158,7 +158,7 @@
   {
     "appt": 15,
     "LName": "Johnson",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "12/27/1771",
     "debut": "05/07/1804",
@@ -170,7 +170,7 @@
   {
     "appt": 16,
     "LName": "Livingston",
-    "Fname": "Henry Brockholst",
+    "FName": "Henry Brockholst",
     "gender": 1,
     "DOB": "11/25/1757",
     "debut": "01/20/1807",
@@ -182,7 +182,7 @@
   {
     "appt": 17,
     "LName": "Todd",
-    "Fname": "Thomas",
+    "FName": "Thomas",
     "gender": 1,
     "DOB": "01/23/1765",
     "debut": "05/04/1807",
@@ -194,7 +194,7 @@
   {
     "appt": 18,
     "LName": "Duvall",
-    "Fname": "Gabriel",
+    "FName": "Gabriel",
     "gender": 1,
     "DOB": "12/06/1752",
     "debut": "11/23/1811",
@@ -206,7 +206,7 @@
   {
     "appt": 19,
     "LName": "Story",
-    "Fname": "Joseph",
+    "FName": "Joseph",
     "gender": 1,
     "DOB": "09/18/1779",
     "debut": "02/03/1812",
@@ -218,7 +218,7 @@
   {
     "appt": 20,
     "LName": "Thompson",
-    "Fname": "Smith",
+    "FName": "Smith",
     "gender": 1,
     "DOB": "01/17/1768",
     "debut": "09/01/1823",
@@ -230,7 +230,7 @@
   {
     "appt": 21,
     "LName": "Trimble",
-    "Fname": "Robert",
+    "FName": "Robert",
     "gender": 1,
     "DOB": "11/17/1776",
     "debut": "06/16/1826",
@@ -242,7 +242,7 @@
   {
     "appt": 22,
     "LName": "McLean",
-    "Fname": "John",
+    "FName": "John",
     "gender": 1,
     "DOB": "03/11/1785",
     "debut": "03/12/1829",
@@ -254,7 +254,7 @@
   {
     "appt": 23,
     "LName": "Baldwin",
-    "Fname": "Henry",
+    "FName": "Henry",
     "gender": 1,
     "DOB": "01/14/1780",
     "debut": "01/18/1830",
@@ -266,7 +266,7 @@
   {
     "appt": 24,
     "LName": "Wayne",
-    "Fname": "James",
+    "FName": "James",
     "gender": 1,
     "DOB": "01/01/1790",
     "debut": "01/14/1835",
@@ -278,7 +278,7 @@
   {
     "appt": 25,
     "LName": "Taney",
-    "Fname": "Roger",
+    "FName": "Roger",
     "gender": 1,
     "DOB": "03/17/1777",
     "debut": "03/28/1836",
@@ -290,7 +290,7 @@
   {
     "appt": 26,
     "LName": "Barbour",
-    "Fname": "Philip",
+    "FName": "Philip",
     "gender": 1,
     "DOB": "05/25/1783",
     "debut": "05/12/1836",
@@ -302,7 +302,7 @@
   {
     "appt": 27,
     "LName": "Catron",
-    "Fname": "John",
+    "FName": "John",
     "gender": 1,
     "DOB": "01/07/1786",
     "debut": "05/01/1837",
@@ -314,7 +314,7 @@
   {
     "appt": 28,
     "LName": "McKinley",
-    "Fname": "John",
+    "FName": "John",
     "gender": 1,
     "DOB": "05/01/1780",
     "debut": "01/09/1838",
@@ -326,7 +326,7 @@
   {
     "appt": 29,
     "LName": "Daniel",
-    "Fname": "Peter",
+    "FName": "Peter",
     "gender": 1,
     "DOB": "04/24/1784",
     "debut": "01/10/1842",
@@ -338,7 +338,7 @@
   {
     "appt": 30,
     "LName": "Nelson",
-    "Fname": "Samuel",
+    "FName": "Samuel",
     "gender": 1,
     "DOB": "11/10/1792",
     "debut": "02/27/1845",
@@ -350,7 +350,7 @@
   {
     "appt": 31,
     "LName": "Woodbury",
-    "Fname": "Levi",
+    "FName": "Levi",
     "gender": 1,
     "DOB": "12/22/1789",
     "debut": "09/23/1845",
@@ -362,7 +362,7 @@
   {
     "appt": 32,
     "LName": "Greier",
-    "Fname": "Robert",
+    "FName": "Robert",
     "gender": 1,
     "DOB": "03/05/1794",
     "debut": "08/10/1846",
@@ -374,7 +374,7 @@
   {
     "appt": 33,
     "LName": "Curtis",
-    "Fname": "Benjamin",
+    "FName": "Benjamin",
     "gender": 1,
     "DOB": "11/04/1809",
     "debut": "10/10/1851",
@@ -386,7 +386,7 @@
   {
     "appt": 34,
     "LName": "Campbell",
-    "Fname": "John",
+    "FName": "John",
     "gender": 1,
     "DOB": "06/24/1811",
     "debut": "04/11/1853",
@@ -398,7 +398,7 @@
   {
     "appt": 35,
     "LName": "Clifford",
-    "Fname": "Nathan",
+    "FName": "Nathan",
     "gender": 1,
     "DOB": "08/18/1803",
     "debut": "01/21/1858",
@@ -410,7 +410,7 @@
   {
     "appt": 36,
     "LName": "Swayne",
-    "Fname": "Noah",
+    "FName": "Noah",
     "gender": 1,
     "DOB": "12/07/1804",
     "debut": "01/27/1862",
@@ -422,7 +422,7 @@
   {
     "appt": 37,
     "LName": "Miller",
-    "Fname": "Samuel",
+    "FName": "Samuel",
     "gender": 1,
     "DOB": "04/05/1816",
     "debut": "07/21/1862",
@@ -434,7 +434,7 @@
   {
     "appt": 38,
     "LName": "Davis",
-    "Fname": "David",
+    "FName": "David",
     "gender": 1,
     "DOB": "03/09/1815",
     "debut": "12/10/1862",
@@ -446,7 +446,7 @@
   {
     "appt": 39,
     "LName": "Field",
-    "Fname": "Stephen",
+    "FName": "Stephen",
     "gender": 1,
     "DOB": "11/04/1816",
     "debut": "05/20/1863",
@@ -458,7 +458,7 @@
   {
     "appt": 40,
     "LName": "Chase",
-    "Fname": "Salmon",
+    "FName": "Salmon",
     "gender": 1,
     "DOB": "01/13/1808",
     "debut": "12/15/1864",
@@ -470,7 +470,7 @@
   {
     "appt": 41,
     "LName": "Strong",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "05/06/1808",
     "debut": "03/14/1870",
@@ -482,7 +482,7 @@
   {
     "appt": 42,
     "LName": "Bradley",
-    "Fname": "Joseph",
+    "FName": "Joseph",
     "gender": 1,
     "DOB": "03/14/1813",
     "debut": "03/23/1870",
@@ -494,7 +494,7 @@
   {
     "appt": 43,
     "LName": "Hunt",
-    "Fname": "Ward",
+    "FName": "Ward",
     "gender": 1,
     "DOB": "06/14/1810",
     "debut": "01/09/1873",
@@ -506,7 +506,7 @@
   {
     "appt": 44,
     "LName": "Waite",
-    "Fname": "Morrison",
+    "FName": "Morrison",
     "gender": 1,
     "DOB": "11/29/1816",
     "debut": "03/04/1874",
@@ -518,7 +518,7 @@
   {
     "appt": 45,
     "LName": "Harlan",
-    "Fname": "John Marshall",
+    "FName": "John Marshall",
     "gender": 1,
     "DOB": "06/01/1833",
     "debut": "12/19/1877",
@@ -530,7 +530,7 @@
   {
     "appt": 46,
     "LName": "Woods",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "08/03/1824",
     "debut": "01/05/1881",
@@ -542,7 +542,7 @@
   {
     "appt": 47,
     "LName": "Matthews",
-    "Fname": "Stanley",
+    "FName": "Stanley",
     "gender": 1,
     "DOB": "07/21/1824",
     "debut": "05/17/1881",
@@ -554,7 +554,7 @@
   {
     "appt": 48,
     "LName": "Gray",
-    "Fname": "Horace",
+    "FName": "Horace",
     "gender": 1,
     "DOB": "03/24/1828",
     "debut": "01/09/1882",
@@ -566,7 +566,7 @@
   {
     "appt": 49,
     "LName": "Blatchford",
-    "Fname": "Samuel",
+    "FName": "Samuel",
     "gender": 1,
     "DOB": "03/09/1820",
     "debut": "04/03/1882",
@@ -578,7 +578,7 @@
   {
     "appt": 50,
     "LName": "Lamar",
-    "Fname": "Lucius",
+    "FName": "Lucius",
     "gender": 1,
     "DOB": "09/17/1825",
     "debut": "01/18/1888",
@@ -590,7 +590,7 @@
   {
     "appt": 51,
     "LName": "Fuller",
-    "Fname": "Melville",
+    "FName": "Melville",
     "gender": 1,
     "DOB": "02/11/1833",
     "debut": "10/08/1888",
@@ -602,7 +602,7 @@
   {
     "appt": 52,
     "LName": "Brewer",
-    "Fname": "David",
+    "FName": "David",
     "gender": 1,
     "DOB": "06/20/1837",
     "debut": "01/06/1890",
@@ -614,7 +614,7 @@
   {
     "appt": 53,
     "LName": "Brown",
-    "Fname": "Henry",
+    "FName": "Henry",
     "gender": 1,
     "DOB": "03/02/1836",
     "debut": "01/05/1891",
@@ -626,7 +626,7 @@
   {
     "appt": 54,
     "LName": "Shiras",
-    "Fname": "George",
+    "FName": "George",
     "gender": 1,
     "DOB": "01/26/1832",
     "debut": "10/10/1892",
@@ -638,7 +638,7 @@
   {
     "appt": 55,
     "LName": "Jackson",
-    "Fname": "Howell",
+    "FName": "Howell",
     "gender": 1,
     "DOB": "04/08/1832",
     "debut": "03/04/1893",
@@ -650,7 +650,7 @@
   {
     "appt": 56,
     "LName": "White",
-    "Fname": "Edward",
+    "FName": "Edward",
     "gender": 1,
     "DOB": "11/03/1845",
     "debut": "03/12/1894",
@@ -662,7 +662,7 @@
   {
     "appt": 57,
     "LName": "Peckham",
-    "Fname": "Rufus",
+    "FName": "Rufus",
     "gender": 1,
     "DOB": "11/08/1838",
     "debut": "01/06/1896",
@@ -674,7 +674,7 @@
   {
     "appt": 58,
     "LName": "McKenna",
-    "Fname": "Joseph",
+    "FName": "Joseph",
     "gender": 1,
     "DOB": "08/10/1843",
     "debut": "01/26/1898",
@@ -686,7 +686,7 @@
   {
     "appt": 59,
     "LName": "Holmes",
-    "Fname": "Oliver Wendell",
+    "FName": "Oliver Wendell",
     "gender": 1,
     "DOB": "03/08/1841",
     "debut": "12/08/1902",
@@ -698,7 +698,7 @@
   {
     "appt": 60,
     "LName": "Day",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "04/17/1849",
     "debut": "03/02/1903",
@@ -710,7 +710,7 @@
   {
     "appt": 61,
     "LName": "Moody",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "12/23/1853",
     "debut": "12/17/1906",
@@ -722,7 +722,7 @@
   {
     "appt": 62,
     "LName": "Lurton",
-    "Fname": "Horace",
+    "FName": "Horace",
     "gender": 1,
     "DOB": "02/26/1844",
     "debut": "01/03/1910",
@@ -734,7 +734,7 @@
   {
     "appt": 63,
     "LName": "Hughes",
-    "Fname": "Charles Evans",
+    "FName": "Charles Evans",
     "gender": 1,
     "DOB": "04/11/1862",
     "debut": "10/10/1910",
@@ -746,7 +746,7 @@
   {
     "appt": 64,
     "LName": "Van Devanter",
-    "Fname": "Willis",
+    "FName": "Willis",
     "gender": 1,
     "DOB": "04/17/1859",
     "debut": "01/03/1911",
@@ -758,7 +758,7 @@
   {
     "appt": 65,
     "LName": "Lamar",
-    "Fname": "Joseph",
+    "FName": "Joseph",
     "gender": 1,
     "DOB": "10/14/1857",
     "debut": "01/03/1911",
@@ -770,7 +770,7 @@
   {
     "appt": 66,
     "LName": "Pitney",
-    "Fname": "Mahlon",
+    "FName": "Mahlon",
     "gender": 1,
     "DOB": "02/05/1858",
     "debut": "03/18/1912",
@@ -782,7 +782,7 @@
   {
     "appt": 67,
     "LName": "McReynolds",
-    "Fname": "James",
+    "FName": "James",
     "gender": 1,
     "DOB": "02/03/1862",
     "debut": "10/12/1914",
@@ -794,7 +794,7 @@
   {
     "appt": 68,
     "LName": "Brandeis",
-    "Fname": "Louis",
+    "FName": "Louis",
     "gender": 1,
     "DOB": "11/13/1856",
     "debut": "06/05/1916",
@@ -806,7 +806,7 @@
   {
     "appt": 69,
     "LName": "Clarke",
-    "Fname": "John",
+    "FName": "John",
     "gender": 1,
     "DOB": "09/18/1857",
     "debut": "10/09/1916",
@@ -818,7 +818,7 @@
   {
     "appt": 70,
     "LName": "Taft",
-    "Fname": "William Howard",
+    "FName": "William Howard",
     "gender": 1,
     "DOB": "09/15/1857",
     "debut": "07/11/1921",
@@ -830,7 +830,7 @@
   {
     "appt": 71,
     "LName": "Sutherland",
-    "Fname": "George",
+    "FName": "George",
     "gender": 1,
     "DOB": "03/25/1862",
     "debut": "10/02/1922",
@@ -842,7 +842,7 @@
   {
     "appt": 72,
     "LName": "Butler",
-    "Fname": "Pierce",
+    "FName": "Pierce",
     "gender": 1,
     "DOB": "03/17/1866",
     "debut": "01/02/1923",
@@ -854,7 +854,7 @@
   {
     "appt": 73,
     "LName": "Sanford",
-    "Fname": "Edward",
+    "FName": "Edward",
     "gender": 1,
     "DOB": "07/23/1865",
     "debut": "02/19/1923",
@@ -866,7 +866,7 @@
   {
     "appt": 74,
     "LName": "Stone",
-    "Fname": "Harlan Fiske",
+    "FName": "Harlan Fiske",
     "gender": 1,
     "DOB": "10/11/1872",
     "debut": "03/02/1925",
@@ -878,7 +878,7 @@
   {
     "appt": 76,
     "LName": "Roberts",
-    "Fname": "Owen",
+    "FName": "Owen",
     "gender": 1,
     "DOB": "05/02/1875",
     "debut": "06/02/1930",
@@ -890,7 +890,7 @@
   {
     "appt": 77,
     "LName": "Cardozo",
-    "Fname": "Benjamin",
+    "FName": "Benjamin",
     "gender": 1,
     "DOB": "05/24/1870",
     "debut": "03/14/1932",
@@ -902,7 +902,7 @@
   {
     "appt": 78,
     "LName": "Black",
-    "Fname": "Hugo",
+    "FName": "Hugo",
     "gender": 1,
     "DOB": "02/27/1886",
     "debut": "08/19/1937",
@@ -914,7 +914,7 @@
   {
     "appt": 79,
     "LName": "Reed",
-    "Fname": "Stanley",
+    "FName": "Stanley",
     "gender": 1,
     "DOB": "12/31/1884",
     "debut": "01/31/1938",
@@ -926,7 +926,7 @@
   {
     "appt": 80,
     "LName": "Frankfurter",
-    "Fname": "Felix",
+    "FName": "Felix",
     "gender": 1,
     "DOB": "11/15/1882",
     "debut": "01/30/1939",
@@ -938,7 +938,7 @@
   {
     "appt": 81,
     "LName": "Douglas",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "10/16/1898",
     "debut": "04/17/1939",
@@ -950,7 +950,7 @@
   {
     "appt": 82,
     "LName": "Murphy",
-    "Fname": "Frank",
+    "FName": "Frank",
     "gender": 1,
     "DOB": "04/13/1890",
     "debut": "02/05/1940",
@@ -962,7 +962,7 @@
   {
     "appt": 83,
     "LName": "Byrnes",
-    "Fname": "James",
+    "FName": "James",
     "gender": 1,
     "DOB": "05/02/1882",
     "debut": "07/08/1941",
@@ -974,7 +974,7 @@
   {
     "appt": 84,
     "LName": "Jackson",
-    "Fname": "Robert",
+    "FName": "Robert",
     "gender": 1,
     "DOB": "02/13/1892",
     "debut": "07/11/1941",
@@ -986,7 +986,7 @@
   {
     "appt": 85,
     "LName": "Rutledge",
-    "Fname": "Wiley",
+    "FName": "Wiley",
     "gender": 1,
     "DOB": "07/20/1894",
     "debut": "02/15/1943",
@@ -998,7 +998,7 @@
   {
     "appt": 86,
     "LName": "Burton",
-    "Fname": "Harold",
+    "FName": "Harold",
     "gender": 1,
     "DOB": "06/22/1888",
     "debut": "10/01/1945",
@@ -1010,7 +1010,7 @@
   {
     "appt": 87,
     "LName": "Vinson",
-    "Fname": "Fred",
+    "FName": "Fred",
     "gender": 1,
     "DOB": "01/22/1890",
     "debut": "06/24/1946",
@@ -1022,7 +1022,7 @@
   {
     "appt": 88,
     "LName": "Clark",
-    "Fname": "Tom",
+    "FName": "Tom",
     "gender": 1,
     "DOB": "09/23/1899",
     "debut": "08/24/1949",
@@ -1034,7 +1034,7 @@
   {
     "appt": 89,
     "LName": "Minton",
-    "Fname": "Sherman",
+    "FName": "Sherman",
     "gender": 1,
     "DOB": "10/20/1890",
     "debut": "10/12/1949",
@@ -1046,7 +1046,7 @@
   {
     "appt": 90,
     "LName": "Warren",
-    "Fname": "Earl",
+    "FName": "Earl",
     "gender": 1,
     "DOB": "03/19/1891",
     "debut": "10/05/1953",
@@ -1058,7 +1058,7 @@
   {
     "appt": 91,
     "LName": "Harlan II",
-    "Fname": "John Marshall",
+    "FName": "John Marshall",
     "gender": 1,
     "DOB": "05/20/1899",
     "debut": "03/28/1955",
@@ -1070,7 +1070,7 @@
   {
     "appt": 92,
     "LName": "Brennan",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "04/25/1906",
     "debut": "10/16/1956",
@@ -1082,7 +1082,7 @@
   {
     "appt": 93,
     "LName": "Whittaker",
-    "Fname": "Charles",
+    "FName": "Charles",
     "gender": 1,
     "DOB": "02/22/1901",
     "debut": "03/25/1957",
@@ -1094,7 +1094,7 @@
   {
     "appt": 94,
     "LName": "Stewart",
-    "Fname": "Potter",
+    "FName": "Potter",
     "gender": 1,
     "DOB": "01/23/1915",
     "debut": "10/14/1958",
@@ -1106,7 +1106,7 @@
   {
     "appt": 95,
     "LName": "White",
-    "Fname": "Byron",
+    "FName": "Byron",
     "gender": 1,
     "DOB": "06/08/1917",
     "debut": "04/16/1962",
@@ -1118,7 +1118,7 @@
   {
     "appt": 96,
     "LName": "Goldberg",
-    "Fname": "Arthur",
+    "FName": "Arthur",
     "gender": 1,
     "DOB": "08/08/1908",
     "debut": "10/01/1962",
@@ -1130,7 +1130,7 @@
   {
     "appt": 97,
     "LName": "Fortas",
-    "Fname": "Abe",
+    "FName": "Abe",
     "gender": 1,
     "DOB": "06/19/1910",
     "debut": "10/04/1965",
@@ -1142,7 +1142,7 @@
   {
     "appt": 98,
     "LName": "Marshall",
-    "Fname": "Thurgood",
+    "FName": "Thurgood",
     "gender": 1,
     "DOB": "07/02/1908",
     "debut": "10/02/1967",
@@ -1154,7 +1154,7 @@
   {
     "appt": 99,
     "LName": "Burger",
-    "Fname": "Warren",
+    "FName": "Warren",
     "gender": 1,
     "DOB": "09/17/1907",
     "debut": "06/23/1969",
@@ -1166,7 +1166,7 @@
   {
     "appt": 100,
     "LName": "Blackmun",
-    "Fname": "Harry",
+    "FName": "Harry",
     "gender": 1,
     "DOB": "11/12/1908",
     "debut": "06/09/1970",
@@ -1178,7 +1178,7 @@
   {
     "appt": 101,
     "LName": "Powell Jr.",
-    "Fname": "Lewis",
+    "FName": "Lewis",
     "gender": 1,
     "DOB": "09/19/1907",
     "debut": "01/07/1972",
@@ -1190,7 +1190,7 @@
   {
     "appt": 102,
     "LName": "Rehnquist",
-    "Fname": "William",
+    "FName": "William",
     "gender": 1,
     "DOB": "10/01/1924",
     "debut": "01/07/1972",
@@ -1202,7 +1202,7 @@
   {
     "appt": 103,
     "LName": "Stevens",
-    "Fname": "John Paul",
+    "FName": "John Paul",
     "gender": 1,
     "DOB": "04/20/1920",
     "debut": "12/19/1975",
@@ -1214,7 +1214,7 @@
   {
     "appt": 104,
     "LName": "O'Connor",
-    "Fname": "Sandra Day",
+    "FName": "Sandra Day",
     "gender": 0,
     "DOB": "03/26/1930",
     "debut": "09/25/1981",
@@ -1226,7 +1226,7 @@
   {
     "appt": 105,
     "LName": "Scalia",
-    "Fname": "Antonin",
+    "FName": "Antonin",
     "gender": 1,
     "DOB": "03/11/1936",
     "debut": "09/26/1986",
@@ -1238,7 +1238,7 @@
   {
     "appt": 106,
     "LName": "Kennedy",
-    "Fname": "Anthony",
+    "FName": "Anthony",
     "gender": 1,
     "DOB": "07/23/1936",
     "debut": "02/18/1988",
@@ -1250,7 +1250,7 @@
   {
     "appt": 107,
     "LName": "Souter",
-    "Fname": "David",
+    "FName": "David",
     "gender": 1,
     "DOB": "09/17/1939",
     "debut": "10/08/1990",
@@ -1262,7 +1262,7 @@
   {
     "appt": 108,
     "LName": "Thomas",
-    "Fname": "Clarence",
+    "FName": "Clarence",
     "gender": 1,
     "DOB": "06/23/1948",
     "debut": "10/23/1991",
@@ -1274,7 +1274,7 @@
   {
     "appt": 109,
     "LName": "Ginsburg",
-    "Fname": "Ruth Baden",
+    "FName": "Ruth Baden",
     "gender": 0,
     "DOB": "03/15/1933",
     "debut": "08/10/1993",
@@ -1286,7 +1286,7 @@
   {
     "appt": 110,
     "LName": "Breyer",
-    "Fname": "Stephen",
+    "FName": "Stephen",
     "gender": 1,
     "DOB": "08/15/1938",
     "debut": "08/03/1994",
@@ -1298,7 +1298,7 @@
   {
     "appt": 111,
     "LName": "Roberts",
-    "Fname": "John",
+    "FName": "John",
     "gender": 1,
     "DOB": "01/27/1955",
     "debut": "09/29/2005",
@@ -1310,7 +1310,7 @@
   {
     "appt": 112,
     "LName": "Alito",
-    "Fname": "Samuel",
+    "FName": "Samuel",
     "gender": 1,
     "DOB": "04/01/1950",
     "debut": "01/31/2006",
@@ -1322,7 +1322,7 @@
   {
     "appt": 113,
     "LName": "Sotomayor",
-    "Fname": "Sonia",
+    "FName": "Sonia",
     "gender": 0,
     "DOB": "06/25/1954",
     "debut": "08/08/2009",
@@ -1334,7 +1334,7 @@
   {
     "appt": 114,
     "LName": "Kagan",
-    "Fname": "Elena",
+    "FName": "Elena",
     "gender": 0,
     "DOB": "04/28/1960",
     "debut": "08/07/2010",
